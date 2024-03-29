@@ -1,0 +1,2 @@
+# bashrc
+A basic bashrc
